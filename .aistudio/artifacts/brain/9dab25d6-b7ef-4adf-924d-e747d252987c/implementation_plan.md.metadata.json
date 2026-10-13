@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for Surya Chandra Vedic Jyotish, featuring high-precision astronomical ephemeris calculations, Daily Panchang, Monthly Calendar with Graha Gochar transits, Kundli Milan & 36 Guna matchmaking engine with North/South Indian charts, Hindu Festivals & Vrat directory with complete Shodashopachara Puja Vidhi, and full Admin CMS console with regional city directory, ephemeris engine configuration, and Redis/Cron cache automation.",
+  "updatedAt": "2026-10-13T12:01:16.654485920Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

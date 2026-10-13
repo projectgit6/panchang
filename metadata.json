@@ -1,0 +1,6 @@
+{
+  "name": "Surya Chandra Vedic Jyotish",
+  "description": "Vedic Jyotish & Astronomical Ephemeris Suite providing Drik Siddhanta Daily Panchangam, Monthly Hindu Calendar, Kundli Milan, and Hindu Festival Directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
